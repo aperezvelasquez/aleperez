@@ -24,7 +24,7 @@ const ProjectDetails = () => {
               <div className="project-details-content wow fadeInUp delay-0-2s">
                 <h3>We Create digital Product For Business</h3>
                 <p className="big-letter">
-                  sSed ut perspiciatis unde omnis iste natus error sit
+                  sSed ut perspiciatismnis iste natus error sit
                   voluptatem accusantium doloremque seeney laudantium totam rem
                   aperiam eaque ipsa quae abillo inventore veritatis
                 </p>
