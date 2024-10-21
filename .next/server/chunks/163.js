@@ -1,0 +1,1 @@
+"use strict";exports.id=163,exports.ids=[163],exports.modules={5163:(e,t,o)=>{o.r(t),o.d(t,{$$typeof:()=>a,__esModule:()=>s,default:()=>d});let r=(0,o(6843).createProxy)(String.raw`/Users/claudiaperez/Desktop/Portfolio-react/React Template/components/ProjectGridIsotop.js`),{__esModule:s,$$typeof:a}=r,d=r.default}};

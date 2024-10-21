@@ -1,4 +1,4 @@
-// File: /Users/claudiaperez/Downloads/noxfolioreact-10/React Template/app/page.js
+// File: /Users/claudiaperez/Desktop/Portfolio-react/React Template/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

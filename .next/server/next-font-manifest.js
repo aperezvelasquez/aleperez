@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/claudiaperez/Downloads/noxfolioreact-10/React Template/app/layout\":[\"static/media/7e6a2e30184bb114-s.p.woff2\",\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/claudiaperez/Desktop/Portfolio-react/React Template/app/layout":["static/media/7e6a2e30184bb114-s.p.woff2","static/media/a34f9d1faa5f3315-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
